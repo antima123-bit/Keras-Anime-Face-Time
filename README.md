@@ -1,4 +1,4 @@
-# Anime-Face-GAN-Keras
+# Keras-Anime-Face-Time
 
 A DCGAN to generate anime faces using custom dataset in Keras.  
 
